@@ -11,10 +11,10 @@ Add it into your catkin_ws/src directory along with the following package:
 
 Build and source the catkin workspace.
 
-Then run the *carrot_follower.py* file using ROS.
+Then run the `carrot_follower.py` file using ROS.
 
 ## To visualize what the robot can see:
 
 In your catkin workspace:
 
-*rviz -d src/carrot_follower/config/watch_carrots.rviz*
+`rviz -d src/carrot_follower/config/watch_carrots.rviz`
