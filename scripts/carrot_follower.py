@@ -37,7 +37,7 @@ class CarrotFollower:
 
                 if self.new_blob_available:
                     self.new_blob_available = False
-                    if abs(50 - self.x_coord) < 30:
+                    if self.x_coord < 120:
                         self.state = "approaching"
 
             if self.state == "approaching":
