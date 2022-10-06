@@ -1,5 +1,9 @@
 # carrot_follower
-A package that makes the robot consecutively visit detected blobs
+A package that makes the robot consecutively visit detected blobs.
+
+Created for course "ROSi algkursus" (ROS for Beginners) <https://sisu.ut.ee/rosak>.
+
+Completed with the support by IT Acadamy Programme of Education and Youth Board of Estonia.
 
 ## To use the package:
 
